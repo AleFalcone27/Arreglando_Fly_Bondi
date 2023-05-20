@@ -7,7 +7,7 @@
 ![img](proeblema.png)
 
 
-#### y me tome el atrvimiento de solucionarlo... 💻
+#### y me tome el atrvimiento de solucionarlo... 
 
 --------------------
 
@@ -15,7 +15,7 @@
 
 #### Fijar un max y min, width y height 
 
-![img](proeblema.png)
+![img](minYmax.png)
 
 #### - Con esta solución no solo conseguimos limitar el tamaño maximo sino tambien limitar el minimo, es decir el usuario sigue tenienedo la para modificar el textarea a su gusto pero siempre PERO dentro de unos limites fijados por el desarrollador. Como estamos utilizando medidas relativas 
 
