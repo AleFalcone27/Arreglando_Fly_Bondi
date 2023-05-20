@@ -12,6 +12,8 @@
 
 ### SOLUCIÓN 1
 
+--------------------
+
 #### Fijar un max y min, width y height 
 
 ![img](proeblema.png)
