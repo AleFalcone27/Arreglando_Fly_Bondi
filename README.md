@@ -2,8 +2,8 @@
 
 ### PROBLEMA
 #### Mientras estaba completando el formulario para postularme a un puesto en la pagina de [Flybondi](https://flybondi.breezy.hr/p/0097a6a84e48/apply?token=2157224a6c21&source=Career%20Portal) empecé a toquetear un poco los textareas y logre romper completamente los textareas: 
-#### Van a tener que hacer un poco de zoom... 
- 	🔍
+#### Van a tener que hacer un poco de zoom... 🔍
+
 
 ![img](problema.png)
 
