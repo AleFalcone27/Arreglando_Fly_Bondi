@@ -1,7 +1,7 @@
 # Fixing-Flybondi's Web ✈️
 
 ### PROBLEMA
-#### Mientras estaba completando el formulario para postularme a un puesto en la pagina de [Flybondi](https://flybondi.breezy.hr/p/0097a6a84e48/apply?token=2157224a6c21&source=Career%20Portal), empecé a toquetear un poco los textareas y logre esto: 
+#### Mientras estaba completando el formulario para postularme a un puesto en la pagina de [Flybondi](https://flybondi.breezy.hr/p/0097a6a84e48/apply?token=2157224a6c21&source=Career%20Portal), me di cuenta de que el redimensionamiento de los textareas no estaba limitado. Toqueteando un poco logre esto: 
 #### Van a tener que hacer un poco de zoom... 🔍
 
 
