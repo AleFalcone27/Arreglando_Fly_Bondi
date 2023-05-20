@@ -7,11 +7,11 @@
 ![img](proeblema.png)
 
 
-#### y me tome el atrvimiento de solucionarlo
+#### y me tome el atrvimiento de solucionarlo... 💻
 
 --------------------
 
-### SOLUCIÓN 1
+### SOLUCIÓN 1️⃣
 
 #### Fijar un max y min, width y height 
 
@@ -19,9 +19,10 @@
 
 #### - Con esta solución no solo conseguimos limitar el tamaño maximo sino tambien limitar el minimo, es decir el usuario sigue tenienedo la para modificar el textarea a su gusto pero siempre PERO dentro de unos limites fijados por el desarrollador. Como estamos utilizando medidas relativas 
 
-2
-- Otra es hacer uso de la propiedad resize de los textareas.
+### SOLUCIÓN 2️⃣
 
---captura--
+### Hacer uso de la propiedad resize de los textareas.
 
-Con esta solución directamente no le permitimos al usuario y por ende evitamos la posibilidad de que pueda romperse el layout
+![img](none.png)
+
+#### Con esta solución directamente no le permitimos al usuario y por ende evitamos la posibilidad de que pueda romperse el layout
