@@ -20,7 +20,7 @@
 #### - Con esta solución no solo conseguimos limitar el tamaño máximo sino también limitar el mínimo, es decir el usuario sigue teniendo la para modificar el textarea a su gusto pero siempre PERO dentro de unos límites fijados por el desarrollador. Como estamos utilizando medidas relativas 
 
 ### SOLUCIÓN 2️⃣
-### - Hacer uso de la propiedad resize de los textareas.
+#### - Hacer uso de la propiedad resize de los textareas.
 
 ![img](none.png)
 
