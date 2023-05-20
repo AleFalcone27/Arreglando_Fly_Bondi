@@ -26,5 +26,7 @@
 
 #### - Con esta solución directamente no le permitimos al usuario cambiar las dimensiones del textarea y por ende evitamos la posibilidad de que pueda romperse el layout de nuestra pagina.
 
+--------------------
+
 ### Disclaimer❗️
 #### Este repositorio no fue creado con intención de ofender a nadie. Espero sea bien recibido]
