@@ -1,15 +1,13 @@
 # Fixing-Flybondi's Web
 
 ## PROBLEMA
-
 ### Mientras estaba completando el formulario para postularme a un puesto en la pagina de [Flybondi](https://flybondi.breezy.hr/p/0097a6a84e48/apply?token=2157224a6c21&source=Career%20Portal) emprece a toquetear un poco los text areas y logre hacer esto: 
+#### Van a tener que hacer un poco de zoom...
 
 ![img](proeblema.png)
 
-#### Van a tener que hacer un poco de zoom porque la captura quedo chica 
 
-y me tome el atrvimiento de solucionarlo
-
+### y me tome el atrvimiento de solucionarlo
 
 
 ## SOLUCIONES
