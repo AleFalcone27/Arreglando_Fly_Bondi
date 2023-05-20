@@ -9,10 +9,9 @@
 
 #### y me tome el atrvimiento de solucionarlo
 
+--------------------
 
 ### SOLUCIÓN 1
-
---------------------
 
 #### Fijar un max y min, width y height 
 
