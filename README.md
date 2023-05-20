@@ -29,4 +29,4 @@
 --------------------
 
 ### Disclaimer❗️
-#### Este repositorio no fue creado con intención de ofender a nadie. Espero sea bien recibido]
+#### Este repositorio no fue creado con intención de ofender a nadie. Espero sea bien recibido
